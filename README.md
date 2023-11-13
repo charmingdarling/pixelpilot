@@ -10,11 +10,17 @@ This app is deployed to Heroku: [Link]()
 
 ## Main Technologies Used
 [node.js v 20.5.0 LTS](https://node.js.org/) - Node.js® is an open-source, cross-platform JavaScript runtime environment.
+
 [express v 4.18.2](https://www.npmjs.com/package/express) - Fast, unopinionated, minimalist web framework for Node.js.
+
 [nodemon v 2.0.22](https://www.npmjs.com/package/nodemon) - Node.js based application; automatically restarting the node application when file changes in the directory are detected.
+
 [concurrently v 5.2.0](https://www.npmjs.com/package/concurrently) - Run multiple commands concurrently.
+
 [webpack v 5.51.1](https://www.npmjs.com/package/webpack) - Webpack is a module bundler. Its main purpose is to bundle JavaScript files for usage in a browser, yet it is also capable of transforming, bundling, or packaging just about any resource or asset.
+
 [babel v 7.15.0](https://www.npmjs.com/package/@babel/core) - Babel is a toolchain that is mainly used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
+
 [css-loader v 6.2.0](https://www.npmjs.com/package/css-loader) - The css-loader interprets @import and url() like import/require() and will resolve them.
 
 
