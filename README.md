@@ -41,3 +41,4 @@ If you would prefer to see a local version of the site, follow th steps below:
 ## Usage
 
 To use app, type in the text editor. When the editor is not focused, the text is saved to the database. When you load the page, the text is loaded from the database. If you are offline, the text is saved to IndexDB and then synced with the server when you are back online. Install the app by clicking on the install button in the address bar in the browser. It will install the app on your device. You can open the app from your device's home screen.
+# pixelpilot
