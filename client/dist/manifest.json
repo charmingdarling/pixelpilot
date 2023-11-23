@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "J.A.T.E.",
-  "short_name": "J.A.T.E.",
+  "name": "Pixel Pilot",
+  "short_name": "Pixel Pilot",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "Never forget your J.A.T.E.!",
+  "description": "Text Editor: Pixel Pilot!",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
